@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳氏春秋後傳
-#+DATE: 2015-09-23 09:39:36
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:13:53.751186
+#+PROPERTY: ID KR1e0038
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1e0038_WYG_010-1a>¶
 欽定四庫全書¶
 　春秋後傳卷十　　　　宋　陳傅良　撰¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　春秋後傳卷十¶
-
